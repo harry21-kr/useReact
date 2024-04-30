@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div></div>;
+  return <div className="flex w-4 items-end bg-black p-2"></div>;
 }
