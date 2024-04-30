@@ -1,3 +1,7 @@
 export default function Home() {
-  return <div className="flex w-4 items-end bg-black p-2"></div>;
+  return (
+    <main>
+      <section className="bg-gray-1 flex min-h-screen justify-center"></section>
+    </main>
+  );
 }
